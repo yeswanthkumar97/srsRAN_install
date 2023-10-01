@@ -1,1 +1,1 @@
-# srsRAN_install
+# srsRAN_install_scripts
